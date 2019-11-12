@@ -1,3 +1,3 @@
-# mordortech.github.io
+# $\mathcal{MordorTech}$
 
-[test](https://fxkkks.github.io/)
+[test](https://mordortech.github.io/index.md)

@@ -278,3 +278,6 @@ A. 2GB　　B. 4GB　　C. 8GB　　D. 16GB
 - 把 64 位非零浮点数强制转换成 32 位浮点数后，不可能（D）
 
   A.大于原数	B.小于原数	C.等于原数	D.与原数符号相反
+
+---
+`2019, MordorTech Developed by the Fxkkks. All rights reserved.`
